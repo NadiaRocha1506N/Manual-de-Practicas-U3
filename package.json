@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.2"
+  },
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto API Rest con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Nadia_Rocha"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "Nadia",
+  "license": "ISC",
+  "devDependencies": {}
+}
